@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PR6_Abramov</string>
+    <string name="btnfon">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+</resources>
